@@ -9,7 +9,7 @@ public final class swm extends JavaPlugin{
     System.out.println("plugin enabled");
   }
   @Override
-    public void onEnable()
+    public void onDisable()
   {
   }
 }
