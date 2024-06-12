@@ -31,4 +31,4 @@ jobs:
         prerelease: false
         title: "Automatic Release"
         files: |
-          target/*.jar
+          swoftyworldmanager-api/target/*.jar
